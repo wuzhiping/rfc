@@ -1,0 +1,1 @@
+- LD_LIBRARY_PATH=/usr/local/sap/nwrfcsdk/lib

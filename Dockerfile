@@ -12,3 +12,4 @@ RUN npm install node-rfc --loglevel verbose
 
 ENV LD_LIBRARY_PATH /usr/local/sap/nwrfcsdk/lib
 
+RUN npm install @dapr/dapr@3.0.0 @supabase/postgrest-js
